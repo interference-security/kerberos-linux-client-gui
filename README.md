@@ -26,6 +26,7 @@ How to get ticket:
 
 How to list ticket:
 
+![image](https://cloud.githubusercontent.com/assets/5358495/12360327/4eabf1d4-bbdd-11e5-8ee7-548ea33a5bac.png)
   klist
 
 How to destroy ticket:
