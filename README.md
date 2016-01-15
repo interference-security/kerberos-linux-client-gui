@@ -20,7 +20,7 @@ Default realm: ACME.LOCAL
 ##Command Line usage:
 How to get ticket:
 
-  kinit your_freeipa_username
+  kinit your_username
   
   Press [Enter] and give your password
 
