@@ -1,5 +1,5 @@
 # kerberos-linux-client-gui
-Kerberos Linux Client GUI based on Java
+Kerberos Linux Client GUI written in Java
 
 ##Run the JAR file 
 java -jar kerberos-linux-client-gui.jar
